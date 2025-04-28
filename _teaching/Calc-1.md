@@ -1,10 +1,11 @@
 ---
 title: "Calculus I"
 collection: teaching
-date: 2025
+
 type: "Undergraduate Instructor"
 permalink: /teaching/Calc-1
 venue: "Temple University, Mathematics"
+date: 2025-05-18
 location: "Philadelphia, Pa"
 ---
 
