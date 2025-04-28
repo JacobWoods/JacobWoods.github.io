@@ -1,7 +1,7 @@
 ---
 title: "Moment Methods for Advection on Networks and an Application to Forest Pest Life Cycle Models"
 collection: publications
-category: Pre-Print
+category: preprint
 permalink:
 excerpt: 'This paper develops low-dimensional moment methods for advective problems
 on networks of domains with applications to the invasive Spotted Lanternfly.'
