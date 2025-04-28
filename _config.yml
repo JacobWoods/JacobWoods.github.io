@@ -86,14 +86,7 @@ publication_category:
   preprint:
     title: 'Pre-Print'
     
-# Publication Category - The following the list of publication categories and their headings
-teach_category:
-  instructor:
-    title: 'Teaching'
-  Ta:
-    title: 'Teachers Assistant'    
-  Mentor:
-    title: 'Mentorship'
+
 
 
 # Site Settings
