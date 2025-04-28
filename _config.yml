@@ -86,6 +86,7 @@ publication_category:
   preprint:
     title: 'Pre-Print'
 
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -253,15 +254,6 @@ defaults:
   - scope:
       path: ""
       type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-      # _teaching
-  - scope:
-      path: ""
-      type: mentorship
     values:
       layout: single
       author_profile: true
