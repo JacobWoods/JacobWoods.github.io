@@ -45,12 +45,14 @@ Work experience
   
 Skills
 ======
-* Software: 
 * Numerical Methods for Mathematical Modeling
   * ODE
   * PDE
   * Agent-based
-
+  * HPC
+* Programing Languages: MATLAB, R, SQL,Julia,  Python, C++
+* Tools: LaTex, Qlikview, GitHub, API, RegEx  
+* Software: Microsoft Office Suite, Photoshop, Adobe Premiere 
 
 Publications
 ======
