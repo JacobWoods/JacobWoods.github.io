@@ -9,7 +9,7 @@ date: 2025-05-18
 location: "Philadelphia, Pa"
 ---
 
- Taught section of Calculus I in Spring 2022 and Summer 2022/2025.
+ Taught sections of Calculus I in Spring 2022 and Summer 2022/2025.
 
 
 Heading 1
