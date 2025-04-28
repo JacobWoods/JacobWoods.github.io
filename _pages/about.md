@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Add an about me professional
+Add an About Me professional
 
 Current Work
 ======
