@@ -8,7 +8,7 @@ date: 2023-06-30
 location: "Philadelphia, Pa"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught a summer review course for graduate students to review the material learned in their introductory numerical analysis course to prepare them for their qualifying exams. 
 
 Heading 1
 ======
