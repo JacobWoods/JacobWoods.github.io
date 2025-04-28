@@ -1,3 +1,4 @@
+---
 title: "Macro-Scale Implications of Micro-Scale Movement Models for the Spotted Lanternfly"
 collection: talks
 type: "Talk"
