@@ -1,7 +1,7 @@
 ---
 title: "Calculus I"
 collection: teaching
-type: "Graduate Course"
+type: "Undergraduate Course"
 permalink: /teaching/Calc-1
 venue: "Temple University, Mathematics"
 date: 2022-09-30
