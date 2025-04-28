@@ -1,6 +1,7 @@
 ---
 title: "Calculus I"
 collection: teaching
+date: 
 type: "Undergraduate Instructor"
 permalink: /teaching/Calc-1
 venue: "Temple University, Mathematics"
