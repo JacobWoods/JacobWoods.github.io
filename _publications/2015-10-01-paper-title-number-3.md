@@ -3,7 +3,7 @@ title: "Well-posedness and Ill-posedness for Linear Fifth-OrderDispersive Equati
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'For fifth-order variable-coefficient linear dispersive equations, we provide conditions under which the intitial value problem is either well-posed or ill-posed.'
 date: 2020-10-31
 venue: ' Journal of Dynamics and Differential Equations '
 paperurl: 'https://link.springer.com/article/10.1007/s10884-020-09905-9'
