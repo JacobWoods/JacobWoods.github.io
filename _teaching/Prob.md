@@ -1,6 +1,6 @@
 ---
 title: "Recitation: Introduction to Probability and Statistics for the Life Sciences"
-collection: teaching
+collection: mentorship
 type: "Undergraduate Recitation"
 permalink: /teaching/Prob
 venue: "Temple University, Mathematics"
