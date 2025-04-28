@@ -29,7 +29,7 @@ RESEARCH
 * June to September 2019: Undergraduate Research Assistant
     * Drexel University
     * Explored the stability of the Kuramoto model and the effect of adaptive noise. Looked at several different fractal structures of coupled oscillators and how stability arose in the system and wrote a code library for anyone to use for future projects on Chimera States
-    * Supervisor: Geidion Simpson 
+    * Supervisor: Gideon Simpson 
 *   April to September 2018: Undergraduate Research Assistant
     * Drexel University
     * Researched the well-posedness of 5th-order partial linear differential equations and the conditions on their coefficients. Used Julia to make numerical models of these solutions in an attempt to see the relation between the conditions.
