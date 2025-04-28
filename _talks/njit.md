@@ -3,7 +3,7 @@ title: "Bridging the gap between 1D car-following and 2D swarming"
 collection: talks
 type: "Talk"
 permalink: /talks/njit
-venue: "New Jersey Institute of Technology"
+venue: "SIAM New York-New Jersey-Pennsylvania Section Conference 2023"
 date: 2023-10-21
 location: "Newark, NJ, USA"
 ---
