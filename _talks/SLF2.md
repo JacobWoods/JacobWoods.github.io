@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/SLF2
 venue: "Rochester Institute of Technology"
-date: 2014-10-30
+date: 2024-10-30
 location: "Rochester, NY, USA"
 ---
