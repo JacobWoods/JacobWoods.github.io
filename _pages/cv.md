@@ -18,39 +18,39 @@ Education
 RESEARCH
 ======
 * Research Interests: Applied Mathematics; ODE and PDE models in biology; emergent patterns from agent-based models; Invasive species.
+* January 2025-June 2025: National Zoo and Conservation Biology Institute (NZCBI) Fellowship   
+    * Multi-agent Mathematical models for the movement of bison.
+    * Supervisor: Hila Shamon
 * May 2022-Present: Graduate Research Assistant
     * Temple University
     * Mathematical models and numerical methods for modeling the spread and growth of the invasive spotted lanternfly. Research funding supported by the US Department of Agriculture and PA Department of Agriculture.
     * Extending and analyzing classical car following models to higher dimensions with the addition of swarming dynamics. Research funding supported by DAC.
     * Supervisor: Benjamin Seibold
-* January 2025-June 2025: National Zoo and Conservation Biology Institute (NZCBI) Fellowship   
-    * Multi-agent Mathematical models for the movement of bison.
-    * Supervisor: Hila Shamon
+* June to September 2019: Undergraduate Research Assistant
+    * Drexel University
+    * Explored the stability of the Kuramoto model and the effect of adaptive noise. Looked at several different fractal structures of coupled oscillators and how stability arose in the system and wrote a code library for anyone to use for future projects on Chimera States
+    * Supervisor: Geidion Simpson 
+*   April to September 2018: Undergraduate Research Assistant
+    * Drexel University
+    * Researched the well-posedness of 5th-order partial linear differential equations and the conditions on their coefficients. Used Julia to make numerical models of these solutions in an attempt to see the relation between the conditions.
+    * Supervisor: David Ambrose
+      
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* April_September 2017: Clinical Data Analyst 
+  * Helped create metrics for measuring the quality of care for 1,000's of patients  
+  * Queried over 2,000 SQL files from GitHub using API to improve the structure of our database  
+  * Used R and regular expressions to create code to parse a variety of different text structures 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
+* Software: 
 * Numerical Methods for Mathematical Modeling
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * ODE
+  * PDE
+  * Agent-based
+
 
 Publications
 ======
