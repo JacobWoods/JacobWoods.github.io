@@ -1,7 +1,7 @@
 ---
 title: "Numerical Analysis Graduate Summer Review Session"
 collection: teaching
-type: "Graduate Course"
+type: "Graduate Review Session Instructor"
 permalink: /teaching/2023-summer
 venue: "Temple University, Mathematics"
 date: 2023-06-30
