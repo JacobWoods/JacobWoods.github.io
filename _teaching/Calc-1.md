@@ -5,7 +5,7 @@ collection: teaching
 type: "Undergraduate Instructor"
 permalink: /teaching/Calc-1
 venue: "Temple University, Mathematics"
-date: 2025-05-18
+date: 2022-05-18
 location: "Philadelphia, Pa"
 ---
 
