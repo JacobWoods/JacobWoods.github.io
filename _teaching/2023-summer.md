@@ -10,11 +10,11 @@ location: "Philadelphia, Pa"
 
 Taught a summer review course for graduate students to review the material learned in their introductory numerical analysis course to prepare them for their qualifying exams. 
 
-Heading 1
+Course Materials
 ======
 
-Heading 2
+
+
+Topics Covered
 ======
 
-Heading 3
-======
