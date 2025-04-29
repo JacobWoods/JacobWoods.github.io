@@ -7,7 +7,6 @@ excerpt: 'This paper develops low-dimensional moment methods for advective probl
 on networks of domains with applications to the invasive Spotted Lanternfly.'
 date: 2023-08-14
 paperurl: 'https://arxiv.org/pdf/2308.06940'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
 This paper develops low-dimensional moment methods for advective problems
