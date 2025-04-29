@@ -7,5 +7,5 @@ venue: "Temple University, Mathematics"
 date: 2020-09-01
 location: "Philadelphia, Pa"
 ---
-
+Taught a reaction for Probability virtually.
 
