@@ -14,7 +14,8 @@ location: "Philadelphia, Pa"
 
 Course Materials
 ======
-Our course textbook is James Stewart's Calculus, Early Transcendentals, 8th Edition. Many of the homework problems for the course are available on WebAssign, which requires a new edition of the text or a separately purchased code. For that reason, we advise that you do not buy a used version of the text. The text is available here: https://www.cengage.com/coursepages/Temple_Calculus There are also videos for this course here: https://math.temple.edu/ugrad/learning_tools/videos1041/.
+
+Our course textbook is James Stewart's Calculus, Early Transcendentals, 8th Edition. Many of the homework problems for the course are available on WebAssign. 
 
 Topics Covered
 ======
