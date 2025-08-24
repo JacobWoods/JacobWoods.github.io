@@ -22,7 +22,7 @@ repository               : "JacobWoods/JacobWoods.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Jacob Woods"
   pronouns         : "he/him"  
   bio              : "I am a Phd student in Mathematics at Temple University my research interests are in the field of Applied Mathematics, I am especially interested in questions related to biology and ecology.  I primarily use ODE, PDE and agent-based modeling techniques, implementing them with custom-coded numerical methods to simulate models incorporating data."
