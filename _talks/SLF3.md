@@ -8,14 +8,7 @@ date: 2024-10-16
 location: "Wooster, OH, USA"
 ---
 
-**Jacob Woods¹, Fatma Seker, Benjamin Seibold¹, and Matt Helmus²**  
-¹Department of Mathematics and ²Department of Biology, Temple University  
-1805 North Broad Street, Philadelphia, PA 19122  
-jacob.woods@temple.edu  
 
----
-
-## ABSTRACT
 
 The spotted lanternfly (*Lycorma delicatula*, SLF) is a plant hopper that primarily feeds on hosts such as the tree of heaven and grape vines. Hosts may succumb and die from the infestation, posing a significant concern for the agricultural industry; in particular, vineyards are at great risk. SLF can damage and even kill vines throughout a season. This, coupled with the emergence of adults—the time when SLF are most mobile—coinciding with grape harvest, makes the control of SLF very challenging in these landscapes. 
 
@@ -38,3 +31,6 @@ We then examine control actions based on thresholds for a fixed initial populati
 We find that, for a given geometry, the relationship between threshold and damage reduction is non-trivial; for different initial conditions this relationship appears qualitatively distinct. This indicates that the optimal choice of threshold for control actions may be **context-dependent**.
 <img src='/images/FIG_3.png'>
 <img src='/images/FIG_4.png'>
+
+
+[Full Research & Technology Development Meeting](https://www.stopslf.org/stopslf/assets/File/Spotted-Lanternfly-RTD-Proceedings-Oct-2024.pdf)
