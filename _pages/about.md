@@ -11,7 +11,9 @@ Add an About Me professional
 
 Current Work
 ======
-https://www.siam.org/publications/siam-news/articles/predicting-the-spread-and-establishment-potential-of-spotted-lanternflies/
+
+[<article>](<https://www.siam.org/publications/siam-news/articles/predicting-the-spread-and-establishment-potential-of-spotted-lanternflies/>)
+
 
 Past Work
 ======
