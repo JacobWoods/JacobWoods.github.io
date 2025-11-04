@@ -37,7 +37,7 @@ RESEARCH
       
 Work experience
 ======
-* April_September 2017: Clinical Data Analyst 
+* April to September 2017: Clinical Data Analyst 
   * Helped create metrics for measuring the quality of care for 1,000's of patients  
   * Queried over 2,000 SQL files from GitHub using API to improve the structure of our database  
   * Used R and regular expressions to create code to parse a variety of different text structures 
@@ -45,12 +45,8 @@ Work experience
   
 Skills
 ======
-* Numerical Methods for Mathematical Modeling
-  * ODE
-  * PDE
-  * Agent-based
-  * HPC
-* Programing Languages: MATLAB, R, SQL,Julia,  Python, C++
+* Numerical Methods for Mathematical Modeling: ODE, PDE, Agent-based, HPC
+* Programming Languages: MATLAB, R, SQL,Julia,  Python, C++
 * Tools: LaTex, Qlikview, GitHub, API, RegEx  
 * Software: Microsoft Office Suite, Photoshop, Adobe Premiere 
 
@@ -71,7 +67,13 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
+Services
+======
+* Co-Organized Mini Symposium on Collective Behavior for Biologically Inspired and Social Systems at SIAM-NNP Conference 2025 
+* Co-organizer of Local Mathematical Contest in Modeling (MCM), Temple University, 2022-2023
+
 Mentorship
 ======
 * Fatma Seker, Temple University Undergraduate researcher 2024-present; Explored the effects of vineyard and landscape geometry on the invasion of Spotted lanternfly and worked to digitize specific vineyards from satellite images and data.
