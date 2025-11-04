@@ -7,7 +7,6 @@ venue: "Spotted Lanternfly Research and Technical Development Meeting"
 date: 2024-10-16
 location: "Wooster, OH, USA"
 ---
-# Mathematical Framework for Modeling the Movement of Adult Spotted Lanternfly into Vineyards and Application for Optimal Control
 
 **Jacob Woods¹, Fatma Seker, Benjamin Seibold¹, and Matt Helmus²**  
 ¹Department of Mathematics and ²Department of Biology, Temple University  
