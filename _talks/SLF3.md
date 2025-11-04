@@ -6,4 +6,5 @@ permalink: /talks/SLF3
 venue: "Spotted Lanternfly Research and Technical Development Meeting"
 date: 2024-10-16
 location: "Wooster, OH, USA"
+talkurl: 'https://arxiv.org/pdf/2308.06940'
 ---
