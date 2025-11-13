@@ -14,7 +14,7 @@ location: "Philadelphia, Pa"
 Course Materials
 ======
 
-Our course textbook is James Stewart's Calculus, Early Transcendentals, 8th Edition.
+James Stewart's Calculus, Early Transcendentals, 8th Edition.
 
 Topics Covered
 ======
