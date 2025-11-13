@@ -12,7 +12,7 @@ Taught a reaction for undergraduates in Probability and Statistics for the Life 
 Course Materials
 ======
 
-Our course textbook is  Modeling the Dynamics of Life: Calculus and Probability for Life ScientistsLinks to an external site., 3rd edition, 2013, Frederick Adler. 
+Modeling the Dynamics of Life: Calculus and Probability for Life ScientistsLinks to an external site., 3rd edition, 2013, Frederick Adler. 
 
 Topics Covered
 ======
