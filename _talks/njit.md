@@ -1,5 +1,5 @@
 ---
-title: "Bridging the gap between 1D car-following and 2D swarming"
+title: "Bridging the Gap Between 1D Car-Following and 2D Swarming"
 collection: talks
 type: "Talk"
 permalink: /talks/njit
