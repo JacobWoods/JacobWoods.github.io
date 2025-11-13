@@ -7,7 +7,7 @@ venue: "Temple University, Mathematics"
 date: 2020-09-01
 location: "Philadelphia, Pa"
 ---
-Taught a reaction for undergraduates in Probability and Statistics for the Life Sciences virtually by zoom.
+Taught a recitation for undergraduates in Probability and Statistics for the Life Sciences virtually by zoom.
 
 Course Materials
 ======
