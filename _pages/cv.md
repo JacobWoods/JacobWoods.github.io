@@ -45,7 +45,7 @@ Work experience
   
 Skills
 ======
-* Numerical Methods for Mathematical Modeling: ODE, PDE, Agent-based, HPC
+* Numerical Methods for Mathematical Models including ODE, PDE and Agent-based models
 * Programming Languages: MATLAB, R, SQL,Julia,  Python, C++
 * Tools: LaTex, Qlikview, GitHub, API, RegEx  
 * Software: Microsoft Office Suite, Photoshop, Adobe Premiere 
