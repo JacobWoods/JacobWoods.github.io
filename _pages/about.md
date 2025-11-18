@@ -18,7 +18,7 @@ Current Work
 Past Work
 ======
 
-[here]((https://www.math.drexel.edu/~medvedev/reu/reu2019/))
+[here](https://www.math.drexel.edu/~medvedev/reu/reu2019/)
 
 Personal Projects and Activities
 ======
