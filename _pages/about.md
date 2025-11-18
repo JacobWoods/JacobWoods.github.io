@@ -12,7 +12,7 @@ I earned my undergraduate and master's degrees in Mathematics from Drexel Univer
 Current Work
 ======
 
-[here](https://www.siam.org/publications/siam-news/articles/predicting-the-spread-and-establishment-potential-of-spotted-lanternflies/)
+
 
 
 Past Work
@@ -26,4 +26,4 @@ Personal Projects and Activities
 <img src='/images/bugaboo.png'>
 
 
-[here](https://epaclimbers.org/portfolio/haycock-mountain/?utm_source=chatgpt.com)
+
