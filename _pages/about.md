@@ -12,14 +12,14 @@ I earned my undergraduate and master's degrees in Mathematics from Drexel Univer
 Current Work
 ======
 
-###Spotted Lanternfly Invasion
+### Spotted Lanternfly Invasion
 
 [here](https://www.siam.org/publications/siam-news/articles/predicting-the-spread-and-establishment-potential-of-spotted-lanternflies/)
 
-###Bison Movement
+### Bison Movement
 
 
-###Collective Behavior of Swarms with Optimal Velocity Dynamics
+### Collective Behavior of Swarms with Optimal Velocity Dynamics
 
 
 Past Work
@@ -33,7 +33,24 @@ Personal Projects and Activities
 
 From a young age, I became an avid rock climber, spending time traveling rural America and abroad competing at a national and international level as well as climbing outside.  Through these experiences, I gained a lot of perspective and had the opportunity to coach and mentor many young athletes teaching important technical skills required for the sport.  I have since still played a role in the community, helping organize fundraising events and graffiti clean-up efforts with the former organization Haycock Bouldering Coalition, whose duties have been absorbed by [EPAC](https://epaclimbers.org/portfolio/haycock-mountain/?utm_source=chatgpt.com).
 
+Below is a collection of interesting photos from some more recent recreational excursions:
+
 <p align="center">
 <img src='/images/bugaboo.png'>
+
+</p>
+
+<p align="center">
+<img src='/images/nl.png'>
+
+</p>
+
+<p align="center">
+<img src='/images/mexico.png'>
+
+</p>
+
+<p align="center">
+<img src='/images/heuco.png'>
 
 </p>
