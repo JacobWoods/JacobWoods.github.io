@@ -41,16 +41,16 @@ Below is a collection of interesting photos from some more recent recreational e
 </p>
 
 <p align="center">
-<img src='/images/nl.png'>
+<img src='/images/nl.jpeg'>
 
 </p>
 
 <p align="center">
-<img src='/images/mexico.png'>
+<img src='/images/mexico.PNG'>
 
 </p>
 
 <p align="center">
-<img src='/images/heuco.png'>
+<img src='/images/heuco.jpg'>
 
 </p>
