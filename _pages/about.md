@@ -14,7 +14,7 @@ Current Work
 
 ### Spotted Lanternfly Invasion
 
-[here](https://www.siam.org/publications/siam-news/articles/predicting-the-spread-and-establishment-potential-of-spotted-lanternflies/)
+The Spotted Lanternfly is an invasive pest to the northeast and has caused millions of dollars of damage.  In close collaboration with the [iEcoLab](https://www.iecolab.org/) at Temple University, I have worked to develop mathematical models for the movement of spotted lanternfly, which bridge the gap between the scale of Spotted Lanternfly jumping between hosts and to the macroscopic diffusive spread, which is often observed at the population level for invasive pests.  Siam wrote an article [here](https://www.siam.org/publications/siam-news/articles/predicting-the-spread-and-establishment-potential-of-spotted-lanternflies/) on presentations given by me and my advisor, [Benjamin Seibold](https://faculty.cst.temple.edu/~seibold/), on the topic.  I have also worked on numerical methods for the life cycle of invasive pests, with a focus on Spotted Lanternfly, working on moment methods for stage-based partial differential equations modeling said life cycles.
 
 ### Bison Movement
 
@@ -44,21 +44,21 @@ Crossing Bugaboo Glacier on the way to Pegion Spire in British Columbia, Canada.
 
 <p align="center">
 <img src='/images/nl.jpeg'>
-  
+</p>
+<p align="center">  
 Climbing a new boulder in the bogs of Sandy Harbor on the Bruin Peninsula in Newfoundland, Canada.
-
 </p>
 
 <p align="center">
 <img src='/images/mexico.PNG'>
-  
+</p>
+<p align="center">  
 Sitting a top of one of the many 1000-foot-tall cliffs in El Potrero Chico, Nuevo Leon, Mexico.
-
 </p>
 
 <p align="center">
 <img src='/images/heuco.jpg'>
-  
-Climbing one of the many roofs in Hueco Tanks National Park, Texas.
-
+</p>
+<p align="center">  
+Climbing a roof in Hueco Tanks National Park, Texas.
 </p>
