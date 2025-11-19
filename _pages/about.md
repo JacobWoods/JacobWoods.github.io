@@ -12,7 +12,13 @@ I earned my undergraduate and master's degrees in Mathematics from Drexel Univer
 Current Work
 ======
 
+Spotted Lanternflys
+=====
 [here](https://www.siam.org/publications/siam-news/articles/predicting-the-spread-and-establishment-potential-of-spotted-lanternflies/)
+
+Mathematical Models for Bison Movement
+=====
+
 
 
 Past Work
