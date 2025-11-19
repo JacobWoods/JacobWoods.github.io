@@ -37,9 +37,9 @@ Below is a collection of interesting photos from some more recent recreational e
 
 <p align="center">
 <img src='/images/bugaboo.png'>
-  
+</p>
+<p align="center">
 Crossing Bugaboo Glacier on the way to Pegion Spire in British Columbia, Canada.
-
 </p>
 
 <p align="center">
