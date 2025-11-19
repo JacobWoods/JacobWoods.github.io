@@ -12,11 +12,12 @@ I earned my undergraduate and master's degrees in Mathematics from Drexel Univer
 Current Work
 ======
 
-### Spotted Lanternfly Invasion
+### Spotted Lanternfly Modeling
 
-The Spotted Lanternfly is an invasive pest to the northeast and has caused millions of dollars of damage.  In close collaboration with the [iEcoLab](https://www.iecolab.org/) at Temple University, I have worked to develop mathematical models for the movement of spotted lanternfly, which bridge the gap between the scale of Spotted Lanternfly jumping between hosts and to the macroscopic diffusive spread, which is often observed at the population level for invasive pests.  Siam wrote an article [here](https://www.siam.org/publications/siam-news/articles/predicting-the-spread-and-establishment-potential-of-spotted-lanternflies/) on presentations given by me and my advisor, [Benjamin Seibold](https://faculty.cst.temple.edu/~seibold/), on the topic.  I have also worked on numerical methods for the life cycle of invasive pests, with a focus on Spotted Lanternfly, working on moment methods for stage-based partial differential equations modeling said life cycles.
+The Spotted Lanternfly is an invasive pest to the northeast and has caused millions of dollars of damage.  In close collaboration with the [iEcoLab](https://www.iecolab.org/) at Temple University, I have worked to develop mathematical models for the movement of spotted lanternfly, which bridge the gap between the scale of Spotted Lanternfly jumping between hosts and to the macroscopic diffusive spread, which is often observed at the population level for invasive pests.  SIAM published an article [here](https://www.siam.org/publications/siam-news/articles/predicting-the-spread-and-establishment-potential-of-spotted-lanternflies/) on presentations given by me and my advisor, [Benjamin Seibold](https://faculty.cst.temple.edu/~seibold/), on the topic.  I have also worked on numerical methods for the life cycle of invasive pests, with a focus on Spotted Lanternfly, working on moment methods for stage-based partial differential equations modeling said life cycles.  This work is highly collaborative, utilizing diverse data sources from the ecology literature,  principled modeling techniques and numerical methods for simulations, and allowing me to experience and gain some understanding of field work for the topic.
 
 ### Bison Movement
+
 
 
 ### Collective Behavior of Swarms with Optimal Velocity Dynamics
