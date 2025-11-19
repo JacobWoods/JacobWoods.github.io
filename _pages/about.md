@@ -37,20 +37,20 @@ Below is a collection of interesting photos from some more recent recreational e
 
 <p align="center">
 <img src='/images/bugaboo.png'>
-
+Crossing Bugaboo Glacier on the way to Pegion Spire in British Columbia, Canada.
 </p>
 
 <p align="center">
 <img src='/images/nl.jpeg'>
-
+Climbing a new boulder in the bogs of Sandy Harbor on the Bruin Peninsula in Newfoundland, Canada.
 </p>
 
 <p align="center">
 <img src='/images/mexico.PNG'>
-
+Sitting a top of one of the many 1000-foot-tall cliffs in El Potrero Chico, Nuevo Leon, Mexico.
 </p>
 
 <p align="center">
 <img src='/images/heuco.jpg'>
-
+Climbing one of the many roofs in Hueco Tanks National Park, Texas.
 </p>
